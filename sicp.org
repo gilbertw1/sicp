@@ -1,0 +1,11 @@
+* SICP
+This project consolidates all of the solutions I've produced while working the book "Structure and Interpretation of Computer Programs".
+
+** Details
+Book Version: https://github.com/sarabander/sicp-pdf
+Language: GNU Guile
+Editor: Spacemacs (scheme layer)
+
+** Progress
+Current Page: 33
+Completed: 3.9%
