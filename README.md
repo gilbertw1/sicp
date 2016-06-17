@@ -12,6 +12,30 @@ Editor: Spacemacs (scheme layer)
 
 ## Progress<a id="orgheadline2"></a>
 
-Current Page: 33
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
-Completed: 3.9%
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Current Page</td>
+<td class="org-right">33</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Total Pages</td>
+<td class="org-right">833</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Completion</td>
+<td class="org-right">%3.96</td>
+</tr>
+</tbody>
+</table>
